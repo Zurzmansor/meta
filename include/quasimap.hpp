@@ -19,6 +19,9 @@ struct quasimapnode
     T v{};
 };
 } // details::
+__has_trivial_destructor
+test
+__has_trivial_destructor
 
 template <typename T, std::size_t ... Is>
 struct quasimap : details::quasimapnode<T, Is> ...
