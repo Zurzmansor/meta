@@ -14,3 +14,6 @@
 #define END_META_NS }
 
 #endif //META_COMMONS_HPP
+
+ХУЙ
+ЖОПА
