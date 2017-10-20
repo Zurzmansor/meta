@@ -7,6 +7,8 @@
 
 #ifndef META_MINMAX_HPP
 #define META_MINMAX_HPP
+#cothen
+#cothen2
 
 #include "commons.hpp"
 
@@ -65,6 +67,7 @@ struct get_minmax_impl<T, V>
 
     static constexpr
     T min = V;
+    whorecode
 };
 
 } // details::
